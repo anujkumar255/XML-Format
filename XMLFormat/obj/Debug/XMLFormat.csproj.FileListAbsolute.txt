@@ -1,0 +1,9 @@
+D:\Code\Learning\XMLFormat\XMLFormat\bin\Debug\XMLFormat.exe.config
+D:\Code\Learning\XMLFormat\XMLFormat\bin\Debug\XMLFormat.exe
+D:\Code\Learning\XMLFormat\XMLFormat\bin\Debug\XMLFormat.pdb
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.Properties.Resources.resources
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.csproj.GenerateResource.Cache
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.exe
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.pdb
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.XMLFormat.resources
+D:\Code\Learning\XMLFormat\XMLFormat\obj\Debug\XMLFormat.csprojResolveAssemblyReference.cache
